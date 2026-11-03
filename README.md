@@ -31,19 +31,3 @@ My projects mainly focus on client-side features, customization, and quality-of-
 </p>
 
 <hr>
-
-<h2>📊 GitHub Statistics</h2>
-
-<img src="https://github-readme-stats.vercel.app/api?username=zartheusdev&show_icons=true&theme=github_dark" alt="GitHub Stats">
-
-<hr>
-
-<h2>🌐 Links</h2>
-
-<a href="https://github.com/zartheusdev">GitHub Profile</a>
-
-<hr>
-
-<i>Building new Minecraft experiences, one project at a time.</i>
-
-</div>
