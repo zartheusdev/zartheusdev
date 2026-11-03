@@ -1,3 +1,4 @@
+ <div align="center">
 
 # ⚡ Hey, I'm Zartheus!
 
@@ -17,27 +18,6 @@ My projects mainly focus on client-side features, customization, and quality-of-
 
 ---
 
-## 🚀 My Projects
-
-### 🔮 Totem Warning
-A lightweight client-side Fabric mod that helps you keep track of your Totem of Undying.
-
-`Fabric` `Client-Side` `Utility`
-
-[View on GitHub](https://github.com/zartheusdev/totem-warning)
-
-### 👁️ Foresight
-A Minecraft mod focused on RNG tracking and predictions.
-
-`Minecraft` `RNG` `Utility`
-
-### ⚔️ Mace Roulette
-A Minecraft datapack that brings a randomized mace-based minigame to life.
-
-`Datapack` `Minigame`
-
----
-
 ## 📊 GitHub Statistics
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=zartheusdev&show_icons=true&theme=github_dark)
@@ -51,3 +31,5 @@ A Minecraft datapack that brings a randomized mace-based minigame to life.
 ---
 
 *Building new Minecraft experiences, one project at a time.*
+
+</div>
