@@ -1,33 +1,25 @@
-
-<div align="center">
-
-<h1>⚡ Hey, I'm Zartheus!</h1>
-
-<h3>🎮 Minecraft Mod Developer · Fabric · Java</h3>
-
-<p>
-I create Minecraft mods, texture packs, and datapacks that improve gameplay and bring new ideas to life.
+<p align="center">
+  <a href="https://github.com/zartheusdev">
+    <img src="assets/zartheus-desktop.svg" width="100%" alt="Zartheus — Minecraft modding, Fabric projects, creative tools and an icy pixel desktop." />
+  </a>
 </p>
 
-<p>
-My projects mainly focus on client-side features, customization, and quality-of-life improvements.
+<p align="center">
+  <a href="https://github.com/zartheusdev/totem-warning"><strong>Totem Warning</strong></a>
+  &nbsp;·&nbsp;
+  <a href="https://github.com/zartheusdev?tab=repositories">Repositories</a>
+  &nbsp;·&nbsp;
+  Minecraft mods &amp; creative tools
 </p>
 
-<hr>
+<details>
+<summary><b>More about the projects</b></summary>
 
-<h2>🛠️ Technologies I Use</h2>
+<br>
 
-<p>
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js">
-</p>
+- **[Totem Warning](https://github.com/zartheusdev/totem-warning)** — a customizable, client-side Fabric mod for Totem of Undying alerts.
+- **Heus Client** — a winter-themed Minecraft client project, in development.
+- **Foresight** — Minecraft RNG and HUD experiments, in development.
+- **Resource packs** — visible textures and winter panorama experiments.
 
-<p>
-<a href="https://fabricmc.net/">🌿 Fabric · Minecraft Mod Development</a>
-</p>
-
-<hr>
+</details>
